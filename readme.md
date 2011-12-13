@@ -11,7 +11,7 @@ Setup
 Add your API-Key to your enviroment using
 
 ```ruby
-ROTTEN_TOMATOES_API_KEY=["sesenwn6zqegzseyhfw2bg49"]
+export ROTTEN_TOMATOES_API_KEY=["<YOUR API KEY>"]
 
 ```
 
