@@ -1,0 +1,1 @@
+export ROTTEN_TOMATOES_API_KEY=["sesenwn6zqegzseyhfw2bg49"]

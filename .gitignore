@@ -1,0 +1,6 @@
+*.gem
+.bundle
+Gemfile.lock
+pkg/*
+.idea
+rotten_tomatoes_api_key.sh
